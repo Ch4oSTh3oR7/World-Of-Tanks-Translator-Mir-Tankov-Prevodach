@@ -6,7 +6,7 @@ It uses google translate as its a free API that you dont have to pay with but it
 How to use:
 
 You can watch the youtube video here:
-
+https://youtu.be/q9J8jGmOOJc
 
 1 - Grab the required MO files
 2 - Get the required libraries and python version 3+ (you can find many good tutorials on youtube)
@@ -20,7 +20,7 @@ You can watch the youtube video here:
 
 
 You can take a look at the older or separate files if you wish to do so - Run order is Convert -> Translate -> Recompile
-I am not good at coding so a lot was writen with chatGPT
+I am not good at coding so a lot was written with chatGPT in python
 
 Tags:
 World of tanks lesta english
